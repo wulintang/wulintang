@@ -6,6 +6,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>我喜欢和不同的人交流，所以如果你想跟我打招呼，我很乐意多认识你！：)</b> : )</em></summary>
 <!--my introduction start-->
+<p align="center">
+  <a href="https://github.com/wulintang" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang">
+  </a>
+</p> 
 
 - ❤️ 我喜欢吃 🍉, 研究 🐓, 打 🏓, 唯有 🛌 和 📺 能让我心旷神怡。
     
@@ -20,7 +25,6 @@
 <br>
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&hide=contribs">
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
   </a>
 </p>
