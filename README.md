@@ -2,34 +2,18 @@
 <a href="https://github.com/wulintang">
     <img align="right" src="https://komarev.com/ghpvc/?username=wulintang&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
- 
 ## Hi, 👋  I'm <a href="https://www.lizhichen.cn">懋和道人</a>
- 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>我喜欢和不同的人交流，所以如果你想跟我打招呼，我很乐意多认识你！：)</b> : )</em></summary>
 <!--my introduction start-->
-    
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
- 
+<img src="https://cdn.wulintang.cn/ipqmd?diy=5oeL5ZKM6YGT5Lq65Y2a5a6i)" >
+- ❤️ 我喜欢吃 🍉, 研究 🐓, 打 🏓, 唯有 🛌 和 📺 能让我心旷神怡。
+- 💬 如果有什么需要找我的，请点击这个链接 [here](https://www.lizhichen.cn).
 ---
 </details>
-  
   ✨ 李懋和，俗名李栋梁。内地上清茅山修行，书法、国画爱好者，优秀的互联网安全与前端建设者。
- 
- 
-<!--my introduction end -->
- 
 <br>
- 
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&title_color=333&text_color=777">
   </a>
 </p>
- 
