@@ -21,6 +21,6 @@
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true&hide=contribs,prs">
   </a>
 </p>
