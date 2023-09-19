@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&card_width=1000">
   </a>
 </p> 
 
@@ -27,6 +27,6 @@
 <br>
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true&card_width=1000">
   </a>
 </p>
