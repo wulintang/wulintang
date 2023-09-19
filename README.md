@@ -58,24 +58,6 @@
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/HIM198?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/HIM198">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
-  </a>
 </p>
  
 <h2></h2>
