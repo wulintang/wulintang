@@ -50,7 +50,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wulintang">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wulintang">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
   </a>
 </p>
