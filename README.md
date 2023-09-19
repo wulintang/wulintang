@@ -6,9 +6,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>我喜欢和不同的人交流，所以如果你想跟我打招呼，我很乐意多认识你！：)</b> : )</em></summary>
 <!--my introduction start-->
-<p align="center">    
-<img src="https://cdn.wulintang.cn/ipqmd?diy=5oeL5ZKM6YGT5Lq65Y2a5a6i)" >
-</p>
 
 - ❤️ 我喜欢吃 🍉, 研究 🐓, 打 🏓, 唯有 🛌 和 📺 能让我心旷神怡。
     
@@ -16,9 +13,11 @@
 
 ---
 </details>
-  ✨ 李懋和，俗名李栋梁。内地上清茅山修行，书法、国画爱好者，优秀的互联网安全与前端建设者。
-<br>
 
+  ✨ 李懋和，俗名李栋梁。内地上清茅山修行，书法、国画爱好者，优秀的互联网安全与前端建设者。
+  
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=wulintang&title_color=333&text_color=777">
