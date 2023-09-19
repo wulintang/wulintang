@@ -51,6 +51,6 @@
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wulintang">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true&card_width=1000">
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true">
   </a>
 </p>
