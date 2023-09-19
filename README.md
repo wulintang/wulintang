@@ -34,7 +34,7 @@
   
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&card_width=1000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&locale=cn&card_width=1000">
   </a>
 </p> 
 
@@ -50,7 +50,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&show_icons=true&card_width=1000">
+    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&locale=cn&show_icons=true&card_width=1000">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=wulintang&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=1000">
   </a>
 </p>
