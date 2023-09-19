@@ -6,6 +6,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>我喜欢和不同的人交流，所以如果你想跟我打招呼，我很乐意多认识你！：)</b> : )</em></summary>
 <!--my introduction start-->
+- 我具备下述的部分语言能力。
+
 <p align="center">
   <a href="https://github.com/wulintang" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang">
