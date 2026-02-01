@@ -32,11 +32,6 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://www.dao.js.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://www.dao.js.cn/)
   
-<p align="center">
-  <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulintang&locale=cn&card_width=1000">
-  </a>
-</p> 
 
 - ❤️ 我喜欢吃 🍉, 研究 🐓, 打 🏓, 唯有 🛌 和 📺 能让我心旷神怡。
     
