@@ -47,10 +47,3 @@
 
   ✨ 李懋和，俗名李栋梁。内地上清茅山修行，书法、国画爱好者，优秀的互联网安全与前端建设者。
   
-<br>
-<p align="center">
-  <a href="https://github.com/wulintang" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=wulintang&locale=cn&show_icons=true&card_width=1000">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=wulintang&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=1000">
-  </a>
-</p>
